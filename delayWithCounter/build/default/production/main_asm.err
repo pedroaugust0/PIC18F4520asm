@@ -1,0 +1,5 @@
+Warning[205] /home/pedro/MEOCloud/UFSC/2016.1/SOE/Lista-de-Exercicios-P1/8/main_asm.asm 7 : Found directive in column 1. (CONFIG)
+Warning[205] /home/pedro/MEOCloud/UFSC/2016.1/SOE/Lista-de-Exercicios-P1/8/main_asm.asm 8 : Found directive in column 1. (CONFIG)
+Warning[205] /home/pedro/MEOCloud/UFSC/2016.1/SOE/Lista-de-Exercicios-P1/8/main_asm.asm 9 : Found directive in column 1. (CONFIG)
+Warning[205] /home/pedro/MEOCloud/UFSC/2016.1/SOE/Lista-de-Exercicios-P1/8/main_asm.asm 13 : Found directive in column 1. (cblock)
+Warning[205] /home/pedro/MEOCloud/UFSC/2016.1/SOE/Lista-de-Exercicios-P1/8/main_asm.asm 17 : Found directive in column 1. (ENDC)
