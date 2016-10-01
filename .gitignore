@@ -20,7 +20,6 @@ build/
 build/default/
 build/default/production/
 nbbuild/
-dist/
 nbdist/
 .nb-gradle/
 debug/
