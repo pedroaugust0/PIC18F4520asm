@@ -1,7 +1,3 @@
-
-# Created by https://www.gitignore.io/api/linux,netbeans,assembler
-
-### Linux ###
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
@@ -18,14 +14,15 @@
 
 
 ### NetBeans ###
-./nbproject/
-./build/
-./nbbuild/
-./dist/
-./nbdist/
-./.nb-gradle/
-./debug/
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+debug/
 
 ### Assembler ###
 *.[sS]
 *.bc
+
