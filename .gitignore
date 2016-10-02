@@ -28,3 +28,7 @@ debug/
 *.[sS]
 *.bc
 
+### PROTEUS ###
+.pdsbak
+
+MAKEFILE
