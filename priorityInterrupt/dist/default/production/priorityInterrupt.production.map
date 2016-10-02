@@ -1,0 +1,54 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Sun Oct  2 20:50:54 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+              VETOR_RESET       code   0x000000    program   0x000004
+                   .cinit    romdata   0x000004    program   0x000002
+             Vetor_High_P       code   0x000008    program   0x000004
+              Vetor_Low_P       code   0x000018    program   0x000056
+.config_300001_BUILD/DEFAULT/PRODUCTION/PRIORIT    romdata   0x300001    program   0x000001
+.config_300003_BUILD/DEFAULT/PRODUCTION/PRIORIT    romdata   0x300003    program   0x000001
+.config_300005_BUILD/DEFAULT/PRODUCTION/PRIORIT    romdata   0x300005    program   0x000001
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000005      
+                            0x000008    0x00000b      
+                            0x000018    0x00006d      
+                            0x300001    0x300001      
+                            0x300003    0x300003      
+                            0x300005    0x300005      
+            99 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     MAIN   0x00003a    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+              RESTORE_INT   0x000052    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+                 SAVE_INT   0x00003e    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+                    SETUP   0x00001c    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+              TRATA_INT_0   0x000062    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+              TRATA_INT_1   0x000068    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+        _Vetor_Low_P_003A   0x00003a    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    SETUP   0x00001c    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+                     MAIN   0x00003a    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+        _Vetor_Low_P_003A   0x00003a    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+                 SAVE_INT   0x00003e    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+              RESTORE_INT   0x000052    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+              TRATA_INT_0   0x000062    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+              TRATA_INT_1   0x000068    program     static /home/par/Git-Projects/PIC18F4520/ASM/priorityInterrupt/priority_interrupt_asm.asm
+
+
