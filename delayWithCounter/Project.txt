@@ -1,1 +1,0 @@
-Um programa em Assembly para piscar um LED infinitamente. O tempo em que o LED ficará acesso e apagado é controlado por uma rotina de delay que controla uma variável contador e ir decrementando esta variável a cada ciclo de máquina.
