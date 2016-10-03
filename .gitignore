@@ -29,6 +29,7 @@ debug/
 *.bc
 
 ### PROTEUS ###
-.pdsbak
+*.pdsbak
+*.workspace
 
-./Makefile.in 
+./Makefile
