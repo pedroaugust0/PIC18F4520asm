@@ -31,4 +31,4 @@ debug/
 ### PROTEUS ###
 .pdsbak
 
-MAKEFILE
+./Makefile.in 
