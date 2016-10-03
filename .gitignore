@@ -32,4 +32,5 @@ debug/
 *.pdsbak
 *.workspace
 
-./Makefile*
+### MAKEFILE ###
+Makefile
